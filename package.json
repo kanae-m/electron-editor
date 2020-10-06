@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/kanae-m/electron-editor#readme",
   "devDependencies": {
-    "electron": "^9.1.1",
+    "electron": "^9.3.0",
     "electron-packager": "^15.0.0"
   }
 }
